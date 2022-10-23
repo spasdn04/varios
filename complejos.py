@@ -12,7 +12,7 @@ print(z, '\n', z2, '\n', z3, '\n', z4)
 
 fig, ax = plt.subplots()
 
-theta = np.linspace(0, 2*np.pi, 100)
+theta = np.linspace(0, 2*np.pi, 130)
 
 radius = 1
 
